@@ -1,0 +1,21 @@
+.auth-page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 50px;
+    
+}
+.inputs {
+    padding: 15px 10px;
+    width: 300px;
+}
+.create-account-button {
+    margin-top: 20px;
+}

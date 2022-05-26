@@ -1,0 +1,14 @@
+.grid-list {
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
+    grid-gap: 20px;
+    background-color: rgb(255, 200, 127);
+    height: 100pv;
+}
+
+
+.grid-content {
+border: 1px dashed rgb(0, 0, 0);
+padding: 10px;
+
+}

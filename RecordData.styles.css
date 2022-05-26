@@ -1,0 +1,22 @@
+.record-data1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.record-data2 {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 50px;
+    
+}
+.inputs {
+    padding: 15px 10px;
+    width: 300px;
+}
+.save1 {
+    margin-top: 20px;
+    padding: 10px;
+}
